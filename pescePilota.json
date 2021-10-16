@@ -1,0 +1,220 @@
+{
+  "pesci": [
+    {
+      "nome": "Cozze",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Lupini",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Veraci",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Ostriche",
+      "pezzi": 0,
+      "isPezzi": true,
+      "peso": 0,
+      "isPeso": true,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Gamberoni",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Gamberi",
+      "pezzi": 0,
+      "isPezzi": false,
+      "peso": 0,
+      "isPeso": true,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Mazzancolle",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "GamberiRossi",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "OrateP",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "OrateMedie",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "OrateMare",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "Rombo",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "SpigoleP",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "SpigoleMedie",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "SpigoleMare",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "Alici",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Calamari",
+      "pezzi": 0,
+      "isPezzi": true,
+      "peso": 0,
+      "isPeso": true,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "CuoreDiMerluzzo",
+      "pezzi": 0,
+      "isPezzi": false,
+      "peso": 0,
+      "isPeso": true,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Merluzzo",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "PolpoVerace",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "ScampiP",
+      "pezzi": 0,
+      "isPezzi": true,
+      "peso": 0,
+      "isPeso": true,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "ScampiG",
+      "pezzi": 0,
+      "isPezzi": true,
+      "peso": 0,
+      "isPeso": true,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Sogliole",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "Spada",
+      "pezzi": 0,
+      "isPezzi": true,
+      "peso": 0,
+      "isPeso": true,
+      "isPezzatura": false,
+      "pezzature": []
+    }
+  ]
+}
