@@ -12,7 +12,7 @@
     {
       "nome": "Lupini",
       "isPeso": true,
-      "peso": 0.2,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -59,7 +59,7 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 3,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
