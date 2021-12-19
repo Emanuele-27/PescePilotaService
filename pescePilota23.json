@@ -3,7 +3,7 @@
     {
       "nome": "Cozze",
       "isPeso": true,
-      "peso": 0,
+      "peso": 1.5,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -21,7 +21,7 @@
     {
       "nome": "Veraci",
       "isPeso": true,
-      "peso": 0,
+      "peso": 7.5,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -29,35 +29,35 @@
     },
     {
       "nome": "Ostriche",
-      "pezzi": 0,
-      "isPezzi": true,
-      "peso": 0,
       "isPeso": true,
+      "peso": 4,
+      "isPezzi": true,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Gamberoni",
       "isPeso": true,
-      "peso": 0,
+      "peso": 1.5,
       "isPezzi": true,
-      "pezzi": 0,
+      "pezzi": 30,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Gamberi",
-      "pezzi": 0,
-      "isPezzi": false,
-      "peso": 0,
       "isPeso": true,
+      "peso": 1,
+      "isPezzi": false,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Mazzancolle",
       "isPeso": true,
-      "peso": 0,
+      "peso": 0.5,
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": false,
@@ -86,7 +86,7 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 0,
+      "pezzi": 5,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -105,7 +105,7 @@
       "peso": 0,
       "isPezzi": true,
       "pezzi": 0,
-      "isPezzatura": false,
+      "isPezzatura": true,
       "pezzature": []
     },
     {
@@ -122,7 +122,7 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 0,
+      "pezzi": 3,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -133,14 +133,23 @@
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": true,
-      "pezzature": []
+      "pezzature": [
+        {
+          "n": 3,
+          "peso": 1
+        },
+        {
+          "n": 1,
+          "peso": 1.5
+        }
+      ]
     },
     {
-      "nome": "Alici",
+      "nome": "Calamari",
       "isPeso": true,
-      "peso": 0,
-      "isPezzi": false,
-      "pezzi": 0,
+      "peso": 9.5,
+      "isPezzi": true,
+      "pezzi": 6,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -163,29 +172,29 @@
       "pezzature": []
     },
     {
-      "nome": "Calamari",
-      "pezzi": 0,
-      "isPezzi": true,
-      "peso": 0,
+      "nome": "Alici",
       "isPeso": true,
+      "peso": 1,
+      "isPezzi": false,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Capitoni",
-      "pezzi": 0,
-      "isPezzi": true,
-      "peso": 0,
       "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 1,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "CuoreDiMerluzzo",
-      "pezzi": 0,
-      "isPezzi": false,
-      "peso": 0,
       "isPeso": true,
+      "peso": 0.9,
+      "isPezzi": false,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -199,27 +208,18 @@
       "pezzature": []
     },
     {
-      "nome": "Frittura",
-      "pezzi": 0,
-      "isPezzi": true,
-      "peso": 0,
-      "isPeso": false,
-      "isPezzatura": false,
-      "pezzature": []
-    },
-    {
       "nome": "FritturaMista",
       "pezzi": 0,
-      "isPezzi": true,
+      "isPezzi": false,
       "peso": 0,
-      "isPeso": false,
+      "isPeso": true,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Merluzzetti",
       "isPeso": true,
-      "peso": 0,
+      "peso": 1.5,
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": false,
@@ -241,15 +241,24 @@
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": true,
-      "pezzature": []
+      "pezzature": [
+        {
+          "n": 1,
+          "peso": 1.55
+        },
+        {
+          "n": 2,
+          "peso": 1
+        }
+      ]
     },
     {
       "nome": "Preparato",
       "isPeso": true,
-      "peso": 0,
+      "peso": 3,
       "isPezzi": false,
       "pezzi": 0,
-      "isPezzatura": true,
+      "isPezzatura": false,
       "pezzature": []
     },
     {
@@ -281,10 +290,136 @@
     },
     {
       "nome": "Spada",
+      "isPeso": true,
+      "peso": 0.35,
+      "isPezzi": true,
+      "pezzi": 2,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Seppie",
+      "isPeso": true,
+      "peso": 0.5,
+      "isPezzi": true,
+      "pezzi": 4,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Triglie",
+      "isPeso": true,
+      "peso": 1,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Tartufi",
       "pezzi": 0,
       "isPezzi": true,
       "peso": 0,
       "isPeso": true,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Dentice",
+      "pezzi": 0,
+      "isPezzi": false,
+      "peso": 0,
+      "isPeso": true,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "Cernia",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "Moscardini",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Totani",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Scorfano",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "Gallinella",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": true,
+      "pezzature": []
+    },
+    {
+      "nome": "Pannocchie",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Sogliole",
+      "isPeso": false,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Persico",
+      "isPeso": false,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Cannolicchi",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": false,
+      "pezzi": 0,
+      "isPezzatura": false,
+      "pezzature": []
+    },
+    {
+      "nome": "Salmone",
+      "isPeso": true,
+      "peso": 0,
+      "isPezzi": true,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     }
