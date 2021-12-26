@@ -3,7 +3,7 @@
     {
       "nome": "Cozze",
       "isPeso": true,
-      "peso": 13.2,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -12,7 +12,7 @@
     {
       "nome": "Lupini",
       "isPeso": true,
-      "peso": 6.7,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -21,7 +21,7 @@
     {
       "nome": "Veraci",
       "isPeso": true,
-      "peso": 14,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -30,25 +30,25 @@
     {
       "nome": "Ostriche",
       "isPeso": true,
-      "peso": 4,
+      "peso": 0,
       "isPezzi": true,
-      "pezzi": 4,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Gamberoni",
       "isPeso": true,
-      "peso": 4.5,
+      "peso": 0,
       "isPezzi": true,
-      "pezzi": 56,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Gamberi",
       "isPeso": true,
-      "peso": 7.9,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -57,7 +57,7 @@
     {
       "nome": "Mazzancolle",
       "isPeso": true,
-      "peso": 0.5,
+      "peso": 0,
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": false,
@@ -77,7 +77,7 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 10,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -86,7 +86,7 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 7,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -95,14 +95,9 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 1,
+      "pezzi": 0,
       "isPezzatura": true,
-      "pezzature": [
-        {
-          "n": 1,
-          "peso": 1.5
-        }
-      ]
+      "pezzature": []
     },
     {
       "nome": "Rombo",
@@ -111,16 +106,7 @@
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": true,
-      "pezzature": [
-        {
-          "n": 1,
-          "peso": 1.5
-        },
-        {
-          "n": 1,
-          "peso": 1
-        }
-      ]
+      "pezzature": []
     },
     {
       "nome": "SpigoleP",
@@ -136,7 +122,7 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 3,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -147,23 +133,14 @@
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": true,
-      "pezzature": [
-        {
-          "n": 5,
-          "peso": 1
-        },
-        {
-          "n": 1,
-          "peso": 1.5
-        }
-      ]
+      "pezzature": []
     },
     {
       "nome": "Calamari",
       "isPeso": true,
-      "peso": 24,
+      "peso": 0,
       "isPezzi": true,
-      "pezzi": 20,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -172,7 +149,7 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 2,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -188,7 +165,7 @@
     {
       "nome": "Alici",
       "isPeso": true,
-      "peso": 2,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -199,14 +176,14 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 1,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "CuoreDiMerluzzo",
       "isPeso": true,
-      "peso": 0.9,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -217,7 +194,7 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 5,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -233,9 +210,9 @@
     {
       "nome": "Merluzzetti",
       "isPeso": true,
-      "peso": 1.5,
+      "peso": 0,
       "isPezzi": true,
-      "pezzi": 6,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
@@ -255,25 +232,12 @@
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": true,
-      "pezzature": [
-        {
-          "n": 1,
-          "peso": 1.55
-        },
-        {
-          "n": 4,
-          "peso": 1
-        },
-        {
-          "n": 2,
-          "peso": 1.5
-        }
-      ]
+      "pezzature": []
     },
     {
       "nome": "Preparato",
       "isPeso": true,
-      "peso": 6.8,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -291,7 +255,7 @@
     {
       "nome": "ScampiG",
       "isPeso": true,
-      "peso": 1.5,
+      "peso": 0,
       "isPezzi": true,
       "pezzi": 0,
       "isPezzatura": false,
@@ -302,32 +266,32 @@
       "isPeso": true,
       "peso": 0,
       "isPezzi": true,
-      "pezzi": 4,
+      "pezzi": 0,
       "isPezzatura": true,
       "pezzature": []
     },
     {
       "nome": "Spada",
       "isPeso": true,
-      "peso": 0.35,
+      "peso": 0,
       "isPezzi": true,
-      "pezzi": 2,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Seppie",
       "isPeso": true,
-      "peso": 6,
+      "peso": 0,
       "isPezzi": true,
-      "pezzi": 4,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
     {
       "nome": "Triglie",
       "isPeso": true,
-      "peso": 1,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -363,7 +327,7 @@
     {
       "nome": "Moscardini",
       "isPeso": true,
-      "peso": 2,
+      "peso": 0,
       "isPezzi": false,
       "pezzi": 0,
       "isPezzatura": false,
@@ -426,9 +390,9 @@
     {
       "nome": "Salmone",
       "isPeso": true,
-      "peso": 0.8,
+      "peso": 0,
       "isPezzi": true,
-      "pezzi": 4,
+      "pezzi": 0,
       "isPezzatura": false,
       "pezzature": []
     },
