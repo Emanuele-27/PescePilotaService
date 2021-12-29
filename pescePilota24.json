@@ -474,20 +474,6 @@
       "pezzi": 14,
       "isPezzatura": false,
       "pezzature": []
-    },
-    {
-      "nome": "Merluzzo",
-      "isPeso": true,
-      "peso": 0,
-      "isPezzi": true,
-      "pezzi": 0,
-      "isPezzatura": true,
-      "pezzature": [
-        {
-          "n": 1,
-          "peso": 0.8
-        }
-      ]
     }
   ]
 }
